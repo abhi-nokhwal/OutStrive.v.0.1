@@ -1,0 +1,5 @@
+.bg-l-shape {
+  background-image: url("./assets/Rectangle.png");
+  background-size: cover;
+  z-index: 10;
+}
