@@ -12,7 +12,7 @@ const App = () => {
     AOS.init({ duration: 1500, easing: "ease-out", once: false });
   }, []);
   return (
-    <Router>
+    <Router basename="/OutStrive">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
