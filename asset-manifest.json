@@ -1,13 +1,28 @@
 {
   "files": {
     "main.css": "/OutStrive.v.0.1/static/css/main.20928999.css",
-    "main.js": "/OutStrive.v.0.1/static/js/main.481d728a.js",
+    "main.js": "/OutStrive.v.0.1/static/js/main.eec6325c.js",
+    "static/media/Callwomen.png": "/OutStrive.v.0.1/static/media/Callwomen.3b41f64dc469a30d3074.png",
+    "static/media/contect-bg.png": "/OutStrive.v.0.1/static/media/contect-bg.fe52cc17c6075e76f977.png",
+    "static/media/ctaThumb.png": "/OutStrive.v.0.1/static/media/ctaThumb.f74cc590642a75aaac0e.png",
+    "static/media/product_dasboard.png": "/OutStrive.v.0.1/static/media/product_dasboard.b0c524d087390bf722de.png",
+    "static/media/head-bg.png": "/OutStrive.v.0.1/static/media/head-bg.6612b26a29b72bb47421.png",
+    "static/media/grid.png": "/OutStrive.v.0.1/static/media/grid.6a38403afebce13bfae7.png",
+    "static/media/mobile.png": "/OutStrive.v.0.1/static/media/mobile.06d550359ee38fd3a37c.png",
+    "static/media/5.png": "/OutStrive.v.0.1/static/media/5.e74b14593a97e4922cf0.png",
+    "static/media/1.png": "/OutStrive.v.0.1/static/media/1.4dc780276f2cfb3d9e2f.png",
+    "static/media/Dashboard101.png": "/OutStrive.v.0.1/static/media/Dashboard101.44083ad0e3902cfa462b.png",
+    "static/media/3.png": "/OutStrive.v.0.1/static/media/3.761156b5e3542e0983e5.png",
+    "static/media/4.png": "/OutStrive.v.0.1/static/media/4.fbea379206e48637d75d.png",
+    "static/media/2.png": "/OutStrive.v.0.1/static/media/2.0435c35921f56eb1c7dc.png",
+    "static/media/73.png": "/OutStrive.v.0.1/static/media/73.8cb5d28f73cae0726972.png",
+    "static/media/68.png": "/OutStrive.v.0.1/static/media/68.602957ae1582a910e2ff.png",
     "index.html": "/OutStrive.v.0.1/index.html",
     "main.20928999.css.map": "/OutStrive.v.0.1/static/css/main.20928999.css.map",
-    "main.481d728a.js.map": "/OutStrive.v.0.1/static/js/main.481d728a.js.map"
+    "main.eec6325c.js.map": "/OutStrive.v.0.1/static/js/main.eec6325c.js.map"
   },
   "entrypoints": [
     "static/css/main.20928999.css",
-    "static/js/main.481d728a.js"
+    "static/js/main.eec6325c.js"
   ]
 }
