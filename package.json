@@ -2,7 +2,7 @@
   "name": "out-dev",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abhi-nokhwal.github.io/OutStrive",
+  "homepage": "https://abhi-nokhwal.github.io/OutStrive.v.0.1",
   "dependencies": {
     "aos": "^2.3.4",
     "lucide-react": "^0.503.0",

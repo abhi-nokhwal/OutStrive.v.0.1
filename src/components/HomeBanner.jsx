@@ -3,7 +3,7 @@ import Dotimg from "../assets/dot_shape.png";
 
 const HomeBanner = () => {
   return (
-    <section className="relative h-screen flex items-center overflow-hidden justify-center px-6">
+    <section className="relative h-screen flex items-center justify-center px-6">
       <img
         src={Dotimg}
         alt="dots"
