@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OutStrive.v.0.1/static/css/main.20928999.css",
-    "main.js": "/OutStrive.v.0.1/static/js/main.7f1a40a9.js",
+    "main.js": "/OutStrive.v.0.1/static/js/main.4b1acb59.js",
     "static/media/Callwomen.png": "/OutStrive.v.0.1/static/media/Callwomen.3b41f64dc469a30d3074.png",
     "static/media/contect-bg.png": "/OutStrive.v.0.1/static/media/contect-bg.fe52cc17c6075e76f977.png",
     "static/media/ctaThumb.png": "/OutStrive.v.0.1/static/media/ctaThumb.f74cc590642a75aaac0e.png",
@@ -19,10 +19,10 @@
     "static/media/68.png": "/OutStrive.v.0.1/static/media/68.602957ae1582a910e2ff.png",
     "index.html": "/OutStrive.v.0.1/index.html",
     "main.20928999.css.map": "/OutStrive.v.0.1/static/css/main.20928999.css.map",
-    "main.7f1a40a9.js.map": "/OutStrive.v.0.1/static/js/main.7f1a40a9.js.map"
+    "main.4b1acb59.js.map": "/OutStrive.v.0.1/static/js/main.4b1acb59.js.map"
   },
   "entrypoints": [
     "static/css/main.20928999.css",
-    "static/js/main.7f1a40a9.js"
+    "static/js/main.4b1acb59.js"
   ]
 }
